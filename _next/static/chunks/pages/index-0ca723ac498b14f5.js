@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[332],{6760:(n,_,r)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/",function(){return r(9306)}])},9306:(n,_,r)=>{"use strict";r.r(_),r.d(_,{default:()=>e});var u=r(7876);function e(){return(0,u.jsx)("h1",{children:"Hello from Luovanori!"})}}},n=>{var _=_=>n(n.s=_);n.O(0,[636,593,792],()=>_(6760)),_N_E=n.O()}]);
